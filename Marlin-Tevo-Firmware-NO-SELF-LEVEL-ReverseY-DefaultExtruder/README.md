@@ -1,3 +1,10 @@
+# Marlin 1.1 RC8 - Configured for TEVO Tarantula
+
+## NOTE
+**- Y AXIS Direction is reversed**
+**- No Bed Auto Level** 
+
+
 # Marlin 3D Printer Firmware
 
 <img align="top" width=175 src="buildroot/share/pixmaps/logo/marlin-250.png" />
